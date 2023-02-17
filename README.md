@@ -1,1 +1,1 @@
-"# belajar-git" 
+https://www.petanikode.com/git-untuk-pemula/
